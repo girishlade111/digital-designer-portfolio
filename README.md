@@ -219,3 +219,6 @@ MIT License — Feel free to use this portfolio as a template for your own proje
 ---
 
 **Built with ❤️ using Next.js 16 & React 19**
+---
+
+Built by Girish Lade — https://ladestack.in
